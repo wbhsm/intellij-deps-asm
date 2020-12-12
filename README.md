@@ -28,3 +28,4 @@ Since merge conflicts are virtually inevitable, it is recommended to perform the
 
 3. Use the artifacts to test IDEA's compatibility with the new release - e.g. add them to the project
 as "ASM" library roots and remote run all relevant build configurations (there are quite a few).
+#1
